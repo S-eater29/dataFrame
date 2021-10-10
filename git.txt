@@ -1,0 +1,7 @@
+1.git 설치
+2.read 설정
+3.git clone
+4.git innit
+5.git add (filename)
+6.git status(optional)
+7.git push origin main
